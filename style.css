@@ -323,7 +323,7 @@ ul li {
   .container {
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-start;
   }
   .blog-card {
     width: 45%;
